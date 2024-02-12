@@ -1,0 +1,9 @@
+
+<launch>
+    <!-- Node for the publisher -->
+    <node name="Publisher" pkg="task_2" type="pypub1.py" output="screen"/>
+
+    <!-- Node for the subscriber -->
+    <node name="Subscriber" pkg="task_2" type="pysub1.py" output="screen"/>
+
+</launch>
