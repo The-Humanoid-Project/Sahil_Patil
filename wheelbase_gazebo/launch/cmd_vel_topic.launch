@@ -1,8 +1,0 @@
-<launch>
-    <!-- Node for the publisher -->
-    <node name="Publisher" pkg="wheelbase_gazebo" type="vel_publisher.py" output="screen"/>
-
-    <!-- Node for the subscriber -->
-    <node name="Subscriber" pkg="wheelbase_gazebo" type="vel_subscriber.py" output="screen"/>
-
-</launch>
