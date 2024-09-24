@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e46e86c-b10d-477d-94b4-52793fb3940a)
+![image](https://github.com/user-attachments/assets/1e46e86c-b10d-477d-94b4-52793fb3940a, img = 200x200)
 
 ## Vishwakarma Award for Engineering Innovation 2024
 
